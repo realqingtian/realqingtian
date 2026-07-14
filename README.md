@@ -22,6 +22,6 @@
 
 ## 联系方式
 - GitHub: https://github.com/realqingtian
-- 邮件: 请查看我的 GitHub 个人资料以获取公开邮箱
+- 邮件: realqingtian@outlook.com
 
 如果我的项目对你有帮助，欢迎 Star、提交 Issue 或发起 PR — 期待交流与合作！
